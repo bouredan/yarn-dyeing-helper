@@ -1,2 +1,6 @@
 # yarn-dyeing-helper
-Skript spustíte příkazem "python3 main.py <vzor ke zpracování>".
+Ke spuštění potřebujete mít nainstalované knihovny Pillow a Tkinter.
+
+Ty nainstalujete příkazem `pip3 install Pillow tk`.
+
+Skript poté spustíte příkazem `python3 main.py`.
